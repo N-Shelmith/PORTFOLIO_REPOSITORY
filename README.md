@@ -3,13 +3,14 @@
 **Data Analyst | Python, SQL, Excel | Financial Inclusion & Agricultural Systems**
 
 I help organizations make sense of data by combining strong analytical skills with domain expertise in **agriculture, finance and emerging markets**.  
-My focus is on turning raw datasets into **insights that guide real decisions** , whether that’s identifying growth patterns, modeling financial risk or building dashboards that reveal hidden trends.  
+My focus is on turning raw datasets into **insights that guide real decisions** , whether it’s identifying growth patterns, modeling financial risk or building dashboards that reveal hidden trends.  
 
 
 ## About Me  
 I’m a **Data Analyst with a background in Economics & Statistics**.  
 
-- I explored **mobile money trends** in Kenya, uncovering growth, seasonality and transaction patterns from CBK data.  
+- I explored **mobile money trends** in Kenya, uncovering growth, seasonality and transaction patterns from CBK data.
+- I uncovered **key trends, country comparisons and relationships** between poultry production, poultry producer prices and environmental impact of the poultry sector in Africa using FAOSTAT data. 
 - I built a **loan default prediction model** in Python using classification algorithms (Logistic Regression, Decision Trees, SVM), applying machine learning to real-world credit risk.
 - I am currently building an **agritech startup**, analyzing poultry farming economics, input costs and contract-farming models.  
 - I am passionate about using data to design **inclusive solutions** in finance and agriculture, where analytics can unlock opportunities for smallholder farmers and underserved markets.  
@@ -51,6 +52,14 @@ What sets me apart is blending **statistical reasoning** with **business context
   - Transaction values dipped in **2019** and **2022**, reflecting possible macroeconomic shocks.  
   - Agents grew slower than accounts, suggesting **network strain** over time.  
 
+
+### [Poultry Production,Prices and Emissions analysis in Africa(FAOSTAT Data)](https://github.com/N-Shelmith/Poultry_Production_Analysis.git)
+- Analyzed poultry production, prices and agricultural emissions in Africa (2000–2021) using FAOSTAT data, with a focus on trends, comparisons and efficiency.
+- This project demonstrates my ability to combine data science tools with an economist’s lens to generate insights for agribusiness, ESG and policy stakeholders.
+- Key insights:
+  - Found strong production growth concentrated in a few countries, while prices remained volatile and weakly correlated with output.
+  - Production drives emissions, but efficiency gaps matter more than size since some countries produce far more output per unit of CO₂.
+  - Identified policy and business implications: concentrated growth = opportunity + risk, there should be efficiency benchmarks for lagging countries and ESG should focus on intensity not just volumes.
 
 ### [Loan Default Prediction (Python, ML)]()  
 - Built a **classification model** to predict loan defaults using financial and demographic variables.  
