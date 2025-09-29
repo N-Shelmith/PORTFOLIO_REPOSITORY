@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Naomi Wanjiru
 
-**Data Analyst | Python, SQL, Excel | Financial Inclusion & Agricultural Systems**
+**Economist & Data Analyst | Python, SQL, Excel | Bridging Data and Development**
 
-I help organizations make sense of data by combining strong analytical skills with domain expertise in **agriculture, finance and emerging markets**.  
+I help organizations make sense of data by combining strong analytical skills with domain expertise in **Agriculture, Finance and Social Impact Systems**.  
 My focus is on turning raw datasets into **insights that guide real decisions** , whether it’s identifying growth patterns, modeling financial risk or building dashboards that reveal hidden trends.  
 
 
@@ -11,7 +11,7 @@ I’m a **Data Analyst with a background in Economics & Statistics**.
 
 - I explored **mobile money trends** in Kenya, uncovering growth, seasonality and transaction patterns from CBK data.
 - I uncovered **key trends, country comparisons and relationships** between poultry production, poultry producer prices and environmental impact of the poultry sector in Africa using FAOSTAT data. 
-- I built a **loan default prediction model** in Python using classification algorithms (Logistic Regression, Decision Trees, SVM), applying machine learning to real-world credit risk.
+- I built a **loan default prediction model** in Python using classification algorithms (Logistic Regression, Decision Trees, Gradient Boosting, SVM), applying machine learning to real-world credit risk.
 - I am currently building an **agritech startup**, analyzing poultry farming economics, input costs and contract-farming models.  
 - I am passionate about using data to design **inclusive solutions** in finance and agriculture, where analytics can unlock opportunities for smallholder farmers and underserved markets.  
 
@@ -61,12 +61,12 @@ What sets me apart is blending **statistical reasoning** with **business context
   - Production drives emissions, but efficiency gaps matter more than size since some countries produce far more output per unit of CO₂.
   - Identified policy and business implications: concentrated growth = opportunity + risk, there should be efficiency benchmarks for lagging countries and ESG should focus on intensity not just volumes.
 
-### [Loan Default Prediction (Python, ML)]()  
+### [Loan Default Prediction (Python, ML)](https://github.com/N-Shelmith/Loan_Default_Analysis.git)  
 - Built a **classification model** to predict loan defaults using financial and demographic variables.  
-- Conducted **data cleaning, EDA, feature engineering, and model evaluation** (Logistic Regression, Decision Trees, SVM).  
+- Conducted **data cleaning, EDA, feature engineering and model evaluation** (Logistic Regression, Decision Trees, Gradient Boosting, SVM).  
 - Evaluated performance with **Accuracy, Precision, Recall, ROC-AUC**.  
 - Key insights:  
-  - Credit history and income were the strongest predictors of default.  
+  - Credit score, DTIRatio, Employment Duration, Age and Co-signer Status were the strongest predictors of default.  
   - Logistic Regression provided the most balanced trade-off between accuracy and interpretability.  
 
 
