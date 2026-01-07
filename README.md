@@ -70,7 +70,8 @@ What sets me apart is blending **statistical reasoning** with **business context
   - Logistic Regression provided the most balanced trade-off between accuracy and interpretability.  
 
 **Other Projects:**
-### (https://github.com/N-Shelmith/MTN-Customer-Churn-Prediction.git)
+### [Telecom Company Customer Churn Prediction](https://github.com/N-Shelmith/MTN-Customer-Churn-Prediction.git)
+### [Medical Insurance Cost Prediction](https://github.com/N-Shelmith/Medical-Insurance-Cost-Analysis.git)
 
 
 ## Contact  
