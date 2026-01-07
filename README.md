@@ -69,6 +69,9 @@ What sets me apart is blending **statistical reasoning** with **business context
   - Credit score, DTIRatio, Employment Duration, Age and Co-signer Status were the strongest predictors of default.  
   - Logistic Regression provided the most balanced trade-off between accuracy and interpretability.  
 
+**Other Projects:**
+### (https://github.com/N-Shelmith/MTN-Customer-Churn-Prediction.git)
+
 
 ## Contact  
 - LinkedIn: (www.linkedin.com/in/kamau-wanjiru)   
