@@ -43,6 +43,14 @@ What sets me apart is blending **statistical reasoning** with **business context
 
 
 ## 📂 Featured Projects  
+### [Mortgage Default Risk Modeling (Fannie Mae Data)](https://github.com/N-Shelmith/Mortgage_Default_Prediction.git)
+- Built a Probability of Default (PD) model using mortgage loan data to simulate a real credit risk workflow.
+- Transformed raw performance data into a loan-level modeling dataset.
+- Defined default as 90+ days delinquency.
+- Developed a logistic regression model (ROC-AUC: 0.817).
+- Segmented borrowers into risk deciles for portfolio monitoring.
+- Identified key risk drivers including interest rate, LTV, DTI and borrower characteristics.
+👉 Demonstrates ability to structure data, define risk and build interpretable models used in lending decisions.
 
 ### [Mobile Money Trends in Kenya (CBK Data)](https://github.com/N-Shelmith/Mobile_Payments_Analysis.git)  
 - Analyzed **mobile payments growth, seasonality and transaction efficiency** using CBK official statistics (2007–2024).  
