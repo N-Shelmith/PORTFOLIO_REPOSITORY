@@ -50,6 +50,7 @@ What sets me apart is blending **statistical reasoning** with **business context
 - Developed a logistic regression model (ROC-AUC: 0.817).
 - Segmented borrowers into risk deciles for portfolio monitoring.
 - Identified key risk drivers including interest rate, LTV, DTI and borrower characteristics.
+
 👉 Demonstrates ability to structure data, define risk and build interpretable models used in lending decisions.
 
 ### [Mobile Money Trends in Kenya (CBK Data)](https://github.com/N-Shelmith/Mobile_Payments_Analysis.git)  
